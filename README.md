@@ -16,7 +16,7 @@ The purpose of this project is to implement Support Vector Machine Learning (SVM
 - glacierSVM.py
 - main.py
 - test_GlacierSVM.py
-- glacier_land_ice102.csv
+- glacier_land_ice102.csv (Not available (file too large) - Reach out for copy)
 - README.md
 
 ## Requirements
